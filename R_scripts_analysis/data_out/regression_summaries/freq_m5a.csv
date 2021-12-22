@@ -1,0 +1,17 @@
+"","Term","Coefficient","SE","T.statistic","P.value"
+"1","(Intercept)","2.4257e-08","1.85148e-07","0.131011785129","0.9"
+"2","languagefr","3.11229e-07","1.20177e-07","2.589745493779","0.01"
+"3","languagege","1.46501e-07","1.20177e-07","1.219038726562","0.22"
+"4","superdomainintertextuality","6.13698e-07","2.33968e-07","2.622997574225","0.009"
+"5","superdomainnatural_phenomena","4.8696e-08","2.428e-07","0.200560618315","0.84"
+"6","domain_namebible ","-5.70451e-07","2.33968e-07","-2.438156823337","0.016"
+"7","domain_namefables_folk_narratives","-6.88678e-07","2.33968e-07","-2.943468505357","0.004"
+"8","domain_nameforces_of_nature","-1.12593e-07","2.428e-07","-0.463727052585","0.64"
+"9","domain_namegestures_postures_facial_expressions","7.44947e-07","2.428e-07","3.068148269251","0.002"
+"10","domain_namehuman_body","1.63284e-07","2.428e-07","0.672501523834","0.5"
+"11","domain_nameintellectual_technical_achievements","3.02484e-07","2.428e-07","1.245814890151","0.21"
+"12","domain_namematerial_culture_money_living","5.89602e-07","2.39612e-07","2.460651899997","0.015"
+"13","domain_namephysical_reactions_sensations","1.0174e-07","2.428e-07","0.41902554985","0.68"
+"14","domain_nameproverbs","-6.26302e-07","2.33968e-07","-2.676866794669","0.008"
+"15","domain_namespecial_concepts_world",NA,NA,NA,NA
+"16","domain_nametime_space",NA,NA,NA,NA

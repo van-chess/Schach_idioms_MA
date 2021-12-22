@@ -1,0 +1,4 @@
+"","Term","Coefficient","SE","T.statistic","P.value"
+"1","(Intercept)","0","0","416.856","< 0.001"
+"2","NLP_town_sentence_categoricalneutral","0","0","2.994","0.003"
+"3","NLP_town_sentence_categoricalpositive","0","0","10.864","< 0.001"

@@ -1,0 +1,4 @@
+"","Term","Coefficient","SE","T.statistic","P.value"
+"1","(Intercept)","5.86472e-07","8.9029e-08","6.587404586496","< 0.001"
+"2","superdomainintertextuality","-2.48444e-07","1.25064e-07","-1.986532325328","0.048"
+"3","superdomainnatural_phenomena","-3.22835e-07","1.26343e-07","-2.555230533873","0.011"
